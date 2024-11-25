@@ -1,0 +1,85 @@
+tr{
+    text-align: center;
+}
+.abc{
+    color: aquamarine;
+    background-color: black;
+    font-style: italic;
+    }
+    .bcd{
+        color:black;
+        background-color:white;
+        font-style:oblique;
+        }
+        .cde{
+            color:black;
+            background-color:yellowgreen;
+            font-style: italic;
+            }
+            .def{
+                color:palevioletred;
+                background-color: yellow;
+                font-style: italic;
+                }
+                .egh{
+                    color:black;
+                    background-color: blueviolet;
+                    font-style: italic;
+                    }
+                    #ghi{
+                        color:black;
+                        background-color:red;
+                        font-style: italic;  
+                    }
+                    #hij{
+                        color:pink;
+                        background-color:green;
+                        font-style: italic;  
+                    }
+                    #ijk{
+                        color:azure;
+                        background-color:orange;
+                        font-style: italic;  
+                    }
+                    .jkl{
+                        color: blue;
+                        background-color: yellow;
+                        font-style: italic;
+                        }
+                        .klm{
+                            color:yellow;
+                            background-color:orangered;
+                            font-style:oblique;
+                            }
+                            .lmn{
+                                color:black;
+                                background-color:blue;
+                                font-style: italic;
+                                }
+                                .mno{
+                                    color:darkblue;
+                                    background-color: darkcyan;
+                                    font-style: oblique;
+                                    }
+                                    #nop{
+                                        color: rgb(255, 30, 0);
+                                        background-color: rgb(8, 0, 255);
+                                        font-style: oblique;
+                                        }
+                                        .opq{
+                                            color:gold;
+                                            background-color:orange;
+                                            font-style:oblique;
+                                            }
+                                            #pqr{
+                                                color:navy;
+                                                background-color:rgb(255, 0, 230);
+                                                font-style: italic;
+                                                }
+                                                .qrs{
+                                                    color:black;
+                                                    background-color:olive;
+                                                    font-style: oblique;
+                                                    }
+                    
+                                             
